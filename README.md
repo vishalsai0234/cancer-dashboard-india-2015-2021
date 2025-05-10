@@ -10,7 +10,8 @@ This project presents an interactive data visualization of cancer trends in Indi
 
 ## 🧮 Data Source
 
-- **Institute for Health Metrics and Evaluation (IHME)**
+- **Institute for Health Metrics and Evaluation (IHME)**  
+  📎 [IHME Global Burden of Disease Results Tool](https://vizhub.healthdata.org/gbd-results/)
 
 ## 🔧 Tools & Technologies
 
